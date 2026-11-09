@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aum-22007/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/aum-22007/DSA-repo/tree/master/0061-rotate-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aum-22007/DSA-repo/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/aum-22007/DSA-repo/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
