@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aum-22007/DSA-repo/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aum-22007/DSA-repo/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/aum-22007/DSA-repo/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aum-22007/DSA-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aum-22007/DSA-repo/tree/master/0229-majority-element-ii) |
+| [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aum-22007/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
