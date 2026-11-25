@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aum-22007/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aum-22007/DSA-repo/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aum-22007/DSA-repo/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aum-22007/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aum-22007/DSA-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aum-22007/DSA-repo/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aum-22007/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aum-22007/DSA-repo/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/aum-22007/DSA-repo/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aum-22007/DSA-repo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aum-22007/DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aum-22007/DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aum-22007/DSA-repo/tree/master/0189-rotate-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aum-22007/DSA-repo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aum-22007/DSA-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aum-22007/DSA-repo/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
@@ -93,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aum-22007/DSA-repo/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aum-22007/DSA-repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
