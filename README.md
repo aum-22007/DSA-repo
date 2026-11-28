@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aum-22007/DSA-repo/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aum-22007/DSA-repo/tree/master/0918-maximum-sum-circular-subarray) |
 | [1051-height-checker](https://github.com/aum-22007/DSA-repo/tree/master/1051-height-checker) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aum-22007/DSA-repo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aum-22007/DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aum-22007/DSA-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aum-22007/DSA-repo/tree/master/0229-majority-element-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aum-22007/DSA-repo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
